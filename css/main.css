@@ -18,3 +18,13 @@ audio[controls], canvas, video {
   display: inline-block;
   *display: inline;
   zoom: 1
+}
+
+/* BASE */
+html {
+  height: 100%;
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%
+}
+
